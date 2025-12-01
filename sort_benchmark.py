@@ -1,4 +1,3 @@
-# compare_sorting.py
 import random
 import timeit
 
